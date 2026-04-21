@@ -5,7 +5,7 @@ Object Oriented Pattern & Design Lab
 Start Date
 19-04-2026
 
-Day 01
+Day 01(19-04-2026)
 Topic: Creating Class and Object
 
 Video: https://youtu.be/IWFzm8qlR1c?si=H5U8v8RDIWxkBxzG
@@ -22,7 +22,7 @@ Creating objects from class
 
 Basic examples
 
-Day 02
+Day 02(20-04-2026)
 
 Topic: Using Encapsulation
 
@@ -30,7 +30,7 @@ Video: https://www.youtube.com/watch?v=HZUUYnIZO\_0\&list=PLSGubLIO9kuDMrAqU8bVQ
 
 Code: https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-2
 
-Day 03
+Day 03(21-04-2026)
 
 Topic: Java Constructors
 
@@ -38,7 +38,7 @@ Video: https://www.youtube.com/watch?v=acfR5vRTZvc\&list=PLSGubLIO9kuDMrAqU8bVQx
 
 Code: https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-3
 
-Day 04
+Day 04(22-04-2026)
 
 Topic: Inheritance In Java
 
