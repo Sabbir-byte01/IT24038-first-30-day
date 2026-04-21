@@ -26,9 +26,9 @@ Day 02(20-04-2026)
 
 Topic: Using Encapsulation
 
-Video: https://www.youtube.com/watch?v=HZUUYnIZO\_0\&list=PLSGubLIO9kuDMrAqU8bVQx4Zv-E-6AEnj\&index=4
+Video: https://youtu.be/s2hoJkIz3RQ?si=vdEJB7aiFfxITZtz
 
-Code: https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-2
+Code: https://github.com/Sabbir-byte01/IT24038-first-30-day/tree/main/Day%202
 
 Day 03(21-04-2026)
 
