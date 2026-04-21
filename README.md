@@ -8,9 +8,9 @@ Start Date
 Day 01(19-04-2026)
 Topic: Creating Class and Object
 
-Video: [https://youtu.be/IWFzm8qlR1c?si=H5U8v8RDIWxkBxzG](https://youtu.be/8VrLNBDT1UI?si=URDGv9fuDkwNNZRX)
+Video: https://youtu.be/8VrLNBDT1UI?si=JnIgq-wbCtprXWDS
 
-Code: [https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-1(19-04-2026)](https://github.com/Sabbir-byte01/IT24038-first-30-day/blob/main/Day%201/README.md)
+Code: https://github.com/Sabbir-byte01/IT24038-first-30-day/blob/main/Day%201/README.md
 
 Summary:
 
