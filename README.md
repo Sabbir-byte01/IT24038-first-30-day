@@ -42,6 +42,6 @@ Day 04(22-04-2026)
 
 Topic: Inheritance In Java
 
-Video: https://www.youtube.com/watch?v=j\_VA2Rp6jM0\&list=PLSGubLIO9kuDMrAqU8bVQx4Zv-E-6AEnj\&index=6
+Video: https://youtu.be/HZUUYnIZO_0?si=lurG2yKQQGFFNJKY
 
-Code: https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-4
+Code: https://github.com/Sabbir-byte01/IT24038-first-30-day/tree/main/Day%204
