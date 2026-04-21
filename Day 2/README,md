@@ -1,0 +1,75 @@
+Example 1:
+abstract class Shape {
+
+    abstract void draw();
+
+    static void info() {
+        System.out.println("This is Shape class");
+    }
+}
+
+class Circle extends Shape {
+
+    final double PI = 3.1416;
+
+    double radius;
+
+    Circle(double radius) {
+        this.radius = radius;
+    }
+
+    void draw() {
+        System.out.println("Drawing Circle");
+        double area = PI * radius * radius;
+        System.out.println("Area: " + area);
+    }
+}
+
+public class Main {
+    public static void main(String[] args) {
+
+        Shape.info();
+
+        Circle c1 = new Circle(5);
+        c1.draw();
+    }
+}
+
+
+Example 2:
+
+abstract class Shape {
+
+    abstract void draw();
+
+    static void info() {
+        System.out.println("This is Shape class");
+    }
+}
+
+class Circle extends Shape {
+
+    final double PI = 3.1416;
+
+    double radius;
+
+    Circle(double radius) {
+        this.radius = radius;
+    }
+
+    void draw() {
+        System.out.println("Drawing Circle");
+        double area = PI * radius * radius;
+        System.out.println("Area: " + area);
+    }
+}
+
+public class Main {
+    public static void main(String[] args) {
+
+        Shape.info();
+
+        Circle c1 = new Circle(5);
+        c1.draw();
+    }
+}
