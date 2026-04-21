@@ -15,10 +15,15 @@ Code: https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main
 Summary:
 
 Definition of class and object
+
 Syntax and structure
+
 Creating objects from class
+
 Basic examples
+
 Day 02
+
 Topic: Using Encapsulation
 
 Video: https://www.youtube.com/watch?v=HZUUYnIZO\_0\&list=PLSGubLIO9kuDMrAqU8bVQx4Zv-E-6AEnj\&index=4
@@ -26,6 +31,7 @@ Video: https://www.youtube.com/watch?v=HZUUYnIZO\_0\&list=PLSGubLIO9kuDMrAqU8bVQ
 Code: https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-2
 
 Day 03
+
 Topic: Java Constructors
 
 Video: https://www.youtube.com/watch?v=acfR5vRTZvc\&list=PLSGubLIO9kuDMrAqU8bVQx4Zv-E-6AEnj\&index=5
@@ -33,6 +39,7 @@ Video: https://www.youtube.com/watch?v=acfR5vRTZvc\&list=PLSGubLIO9kuDMrAqU8bVQx
 Code: https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-3
 
 Day 04
+
 Topic: Inheritance In Java
 
 Video: https://www.youtube.com/watch?v=j\_VA2Rp6jM0\&list=PLSGubLIO9kuDMrAqU8bVQx4Zv-E-6AEnj\&index=6
