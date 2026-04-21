@@ -1,4 +1,5 @@
 Example 1:
+
 public class Car {
     String color;
     String model;
@@ -21,7 +22,8 @@ public class Main {
     }
 }
 
-Example2:
+Example 2:
+
 public class Car {
     String color;
     String model;
