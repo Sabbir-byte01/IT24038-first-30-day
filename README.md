@@ -34,9 +34,9 @@ Day 03(21-04-2026)
 
 Topic: Java Constructors
 
-Video: https://www.youtube.com/watch?v=acfR5vRTZvc\&list=PLSGubLIO9kuDMrAqU8bVQx4Zv-E-6AEnj\&index=5
+Video: https://youtu.be/lWFzm8qIR1c?si=dPIb3XKfYZJICQbb
 
-Code: https://github.com/alifahmedjoy4-cmd/IT-24015-First-30-Days-Plan/tree/main/Day-3
+Code: https://github.com/Sabbir-byte01/IT24038-first-30-day/tree/main/Day%203
 
 Day 04(22-04-2026)
 
