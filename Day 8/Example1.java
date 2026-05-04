@@ -1,13 +1,24 @@
-import java.util.ArrayList;
+class OuterClass {
 
-public class Main {
+    int outerVariable = 10;
+
+    class InnerClass {
+
+        void display(){
+            System.out.println("Outer variable value: " + outerVariable);
+        }
+    }
+}
+
+
+public class IT24038 {
+
     public static void main(String[] args) {
-        ArrayList<String> list = new ArrayList<>();
 
-        list.add("Java");
-        list.add("C++");
-        list.add("Python");
+        OuterClass outer = new OuterClass();
 
-        System.out.println(list);
+        OuterClass.InnerClass inner = outer.new InnerClass();
+
+        inner.display();
     }
 }
